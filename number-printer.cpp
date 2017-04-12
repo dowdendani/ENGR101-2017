@@ -1,5 +1,5 @@
 # include < stdio .h >
 int main (){
-int number = 100;
+char number = C;
 printf ( "%c" , number );
 return 
